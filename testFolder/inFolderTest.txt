@@ -1,2 +1,3 @@
 Hello, I'm a student of Git & Github course
-A change in main branch
+Change in branch feature3
+Change in main after acepting change from feature3
