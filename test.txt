@@ -1,1 +1,2 @@
-This change has been done in feature branch
+This change has been done in feature branch.
+Another change in feature branch.
