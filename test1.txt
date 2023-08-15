@@ -1,1 +1,2 @@
-This change has been done from feature2
+This change has been done from feature2.
+Another commit in feature2.
