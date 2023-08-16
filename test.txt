@@ -1,3 +1,4 @@
 This change has been done in feature branch.
 Another change in feature branch.
 1st change from new-branch.
+After cloning.
